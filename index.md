@@ -5,7 +5,7 @@
 
 |   Name    |  Problems Solved   |
 |:---------:|:------------------:|
-| Ankit     | 0           |
-| Debadutta | 0               |
-| Satyajit  | 0         |
-| Shovan    | 0  |
+| Ankit     | 0                  |
+| Debadutta | 0                  |
+| Satyajit  | 0                  |
+| Shovan    | 0                  |
