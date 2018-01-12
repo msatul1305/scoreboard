@@ -5,7 +5,7 @@
 
 |   Name    |  Problems Solved   |
 |:---------:|:------------------:|
-| Ankit     | 10000000           |
-| Debadutta | -420               |
-| Satyajit  | 10000001           |
-| Shovan    | 10^1000000         |
+| Ankit     | 0           |
+| Debadutta | 0               |
+| Satyajit  | 0         |
+| Shovan    | 0  |
