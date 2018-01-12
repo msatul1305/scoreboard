@@ -8,11 +8,3 @@
 | Debadutta | -420               |
 | Satyajit  | 10000001           |
 | Shovan    | 10^1000000         |
-
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
