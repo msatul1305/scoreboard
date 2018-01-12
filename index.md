@@ -10,4 +10,4 @@
 | Satyajit  | 0                  |
 | Shovan    | 0                  |
 
-[edit your progress](https://github.com/raffleberry/scoreboard/edit/master/index.md/"page here)
+[edit your progress](https://github.com/raffleberry/scoreboard/edit/master/index.md/)
