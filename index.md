@@ -15,7 +15,7 @@
 
 |   Name    |  Problems Solved               |
 |:---------:|:------------------------------:|
-| Debadutta | 0                              |
+| Debadutta | 10                             |
 | Satyajeet | 21                             |
 
 [edit your progress](https://github.com/raffleberry/scoreboard/edit/master/index.md/)
