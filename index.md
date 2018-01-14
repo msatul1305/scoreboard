@@ -10,7 +10,7 @@
 | Satyajit  | 0                  |
 | Shovan    | 15.8                 |
 | Satyajeet | 0                  |
-
+|Atul       |0                   |     
 # TASK : [Project Euler](https://projecteuler.net "Maths")
 
 |   Name    |  Problems Solved               |
